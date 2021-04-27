@@ -12,9 +12,5 @@
 
 ### 👋 See ya!
 
-<a href="https://github-readme-stats.vercel.app/api?username=rodriguesms">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rodriguesms&theme=dracula" />
-</a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=rodriguesms">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodriguesms&theme=dracula" />
-</a>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodriguesms&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodriguesms&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
