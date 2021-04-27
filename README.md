@@ -2,13 +2,13 @@
 
 #### 🤖 My name is Miguel Rodrigues and I am a Computer Engineering student at Federal University of Paraiba!
 
-#### Interesting fields that i'm excited to study || create projects in this year (2021):
+#### 📖 Interesting fields that i'm excited to study || create projects in this year (2021):
 
-* Data Science
-* Artificial Inteligence
-* IoT
-* Operations Research
-* Backend development
+* 🎲 Data Science
+* 🧠 Artificial Inteligence
+* 📡 IoT
+* 🔗 Operations Research
+* ⚙️ Backend development
 
 ### 👋 See ya!
 
