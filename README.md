@@ -12,9 +12,9 @@
 
 ### 👋 See ya!
 
-<a href="https://github.com/rodriguesms">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rodriguesms&repo=github-readme-stats&theme=dracula" />
+<a href="https://github-readme-stats.vercel.app/api?username=rodriguesms">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rodriguesms&theme=dracula" />
 </a>
-<a href="https://github.com/rodriguesms">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rodriguesms&repo=convoychat&theme=dracula" />
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=rodriguesms">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodriguesms&theme=dracula" />
 </a>
