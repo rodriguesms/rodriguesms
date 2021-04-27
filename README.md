@@ -1,4 +1,16 @@
-### Hi there 👋
+## 🖖 Hi there 
+
+### 🤖 My name is Miguel Rodrigues, and at the moment, I am a Computer Engineering student at Federal University of Paraiba!
+
+### Interesting fields that i'm excited to study || create projects in this year (2021):
+
+* Data Science
+* Artificial Inteligence
+* IoT
+* Operations Research
+* Backend development
+
+### 👋 See ya!
 
 <!--
 **rodriguesms/rodriguesms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
