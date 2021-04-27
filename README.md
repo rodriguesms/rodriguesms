@@ -12,5 +12,5 @@
 
 ### 👋 See ya!
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodriguesms&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodriguesms&theme=dracula&show_icons=true&count_private=true&hide=issues)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodriguesms&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
