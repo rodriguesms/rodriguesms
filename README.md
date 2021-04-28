@@ -5,7 +5,7 @@
 #### 📖 Interesting fields that i'm excited to study || create projects in this year (2021):
 
 * 🎲 Data Science
-* 🧠 Artificial Inteligence
+* 🧠 Artificial Intelligence
 * 📡 Internet of Things
 * 🔗 Operations Research
 * ⚙️ Backend development
