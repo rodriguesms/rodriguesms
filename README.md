@@ -16,9 +16,5 @@
 <a href="https://github.com/rodriguesms">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=rodriguesms&theme=dracula&show_icons=true&include_all_commits=true&count_private=true" />
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodriguesms&theme=dracula&layout=compact&langs_count=6" />
- <p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/rodriguesms/count.svg" />
-</p>
 </a>
 </p>
