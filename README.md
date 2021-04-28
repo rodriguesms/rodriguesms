@@ -15,7 +15,6 @@
 <p align="center">
 <a href="https://github.com/rodriguesms"}>
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=rodriguesms&theme=dracula&show_icons=true&include_all_commits=true&count_private=true" />
-  <div />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodriguesms&theme=dracula&layout=compact&langs_count=6" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodriguesms&theme=dracula&layout=compact&langs_count=6&exclude_repo=Machine-Learning-UW-Course" />
 </a>
 </p>
