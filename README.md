@@ -12,5 +12,13 @@
 
 ### 👋 See ya!
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodriguesms&bg_color=00004F,481658,3C1A7D&show_icons=true&count_private=true&hide=issues&text_color=FFFFFF&title_color=FFFFFF&icon_color=FFFFFF)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodriguesms&bg_color=00004F,481658,3C1A7D&layout=compact&text_color=FFFFFF&title_color=FFFFFF&exclude_repo=Machine-Learning-UW-Course)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+<a href="https://github.com/rodriguesms">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=rodriguesms&theme=dracula&show_icons=true&include_all_commits=true&count_private=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodriguesms&theme=dracula&layout=compact&langs_count=6" />
+ <p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/rodriguesms/count.svg" />
+</p>
+</a>
+</p>
