@@ -4,11 +4,11 @@
 
 #### 📖 Interesting fields that i'm excited to study || create projects in this year (2021):
 
-* 🎲 Data Science
-* 🧠 Artificial Inteligence
-* 📡 IoT
-* 🔗 Operations Research
-* ⚙️ Backend development
+* 🎲 Data Science __pending__
+* 🧠 Artificial Inteligence __pending__
+* 📡 IoT __pending__
+* 🔗 Operations Research __pending__
+* ⚙️ Backend development ✅
 
 ### 👋 See ya!
 
