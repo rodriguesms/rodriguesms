@@ -6,7 +6,7 @@
 
 * 🎲 Data Science
 * 🧠 Artificial Inteligence
-* 📡 IoT
+* 📡 Internet of Things
 * 🔗 Operations Research
 * ⚙️ Backend development
 
