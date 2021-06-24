@@ -8,7 +8,7 @@
 * 🧠 Artificial Intelligence
 * 📡 Internet of Things
 * 🔗 Operations Research
-* ⚙️ Backend development
+* ⚙️ Web development
 
 ### 👋 See ya!
 
