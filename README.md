@@ -2,15 +2,11 @@
 
 #### 🤖 My name is Miguel Rodrigues and I am a Computer Engineering student at Federal University of Paraiba (UFPB)!
 
-#### 📖 Interesting areas that i'm excited to study || create projects in this year (2021):
+#### 🔎 Currently I'm enrolled with Sisenex extension program as the Mobile module tutor for the new entrants.
 
-* 🎲 Data Science
-* 🧠 Artificial Intelligence
-* 📡 Internet of Things
-* 🔗 Operations Research
-* ⚙️ Software engineering
+#### 💻 I'm also excited to develop some personal projects using C++ and Java, applying the experience I've gathered in the last year. Even though I want to learn and develop some personal projects using C++, I have already done some cool stuff in Python this year, such as an Application Backend for a Real Estate Agency with PostgreSQL and a Discord bot for Dice Rolling and Initiative Tests for virtual tabletop RPGs.
 
-### 👋 See ya!
+#### 📱 Also, i've recently built an simple Github User Search App using React Native with Typescript and the Github API, in order to teach some concepts in the extension program.
 
 
 <p align="center">
