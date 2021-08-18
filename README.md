@@ -6,7 +6,7 @@
 
 #### 💻 I'm also excited to develop some personal projects using C++ and Java, applying the experience I've gathered in the last year. Even though I want to learn and develop some personal projects using C++, I have already done some cool stuff in Python this year, such as an Application Backend for a Real Estate Agency with PostgreSQL and a Discord bot for Dice Rolling and Initiative Tests for virtual tabletop RPGs.
 
-#### 📱 Also, i've recently built an simple Github User Search App using React Native with Typescript and the Github API, in order to teach some concepts in the extension program.
+#### 📱 Also, i've recently built a Github User Search App using React Native with Typescript and the Github API, in order to teach some concepts in the extension program.
 
 
 <p align="center">
