@@ -10,7 +10,8 @@
 
 ##
 
-<div style="display: flex; flex-direction: row;"><br>
+
+<div align="center" style="display: flex; flex-direction: row; margin-bottom: 20"><br>
   <img align="center" alt="C-icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
   <img align="center" alt="C-icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
   <img align="center" alt="C-icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
@@ -32,3 +33,13 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodriguesms&bg_color=3C1A7D,481658,00004F&layout=compact&text_color=FFFFFF&title_color=FFFFFF&langs_count=6&exclude_repo=Machine-Learning-UW-Course" />
 </a>
 </p>
+
+##
+
+<div align="center">
+  <a href="mailto:miguelrodrigues@eng.ci.ufpb.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/miguel-rodrigues-43b1961b2/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.instagram.com/m.rodriguesrt/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://wa.me/5583993903578"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+  <a href="https://t.me/m_srodrigues"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+</div>
