@@ -2,7 +2,7 @@
 
 #### 🤖 My name is Miguel Rodrigues and I am a Computer Engineering student at Federal University of Paraiba (UFPB)!
 
-#### 🔎 Currently I'm enrolled with PUDIM research program working in the hardware module, creating an IOT device with the ESP32 MCU. I'm working for Synchro Cloud Services R&D project using Spring Cloud and Kubernetes for a microservices architecture application. Also, I'm enrolled with a RD&I Project for the IFPB's Assert Lab, working as a Full Stack developer.
+#### 🔎 Currently I'm enrolled with TNS/Laser R&D program working in the IoT module, creating applications with the ESP32 MCU. I'm working for Synchro Cloud Services as an intern using Spring Cloud and Kubernetes for a microservices architecture application.
 
 #### 💻 I'm also excited to develop some personal projects using C++ and Java, applying the experience I've gathered in the last years. Even though I want to develop some personal projects using C++, I have already done some cool stuff in Python, such as an Application Backend for a Real Estate Agency with PostgreSQL and a Discord bot for Dice Rolling and Initiative Tests for virtual tabletop RPGs.
 
