@@ -26,15 +26,6 @@
 
 ##
 
-<p align="center">
-<a href="https://github.com/rodriguesms"}>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=rodriguesms&bg_color=00004F,481658,3C1A7D&layout=compact&text_color=FFFFFF&title_color=FFFFFF&show_icons=true&icon_color=FFFFFF&include_all_commits=true&count_private=true" style="margin: 10px 10px 10px 10px;"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodriguesms&bg_color=3C1A7D,481658,00004F&layout=compact&text_color=FFFFFF&title_color=FFFFFF&langs_count=6&exclude_repo=Machine-Learning-UW-Course" />
-</a>
-</p>
-
-##
-
 <div align="center">
   <a href="mailto:miguelrodrigues@eng.ci.ufpb.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/miguel-rodrigues-43b1961b2/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
