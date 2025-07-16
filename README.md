@@ -1,12 +1,11 @@
 ## 🖖 Hi there 
 
-#### 🤖 My name is Miguel Rodrigues and I am a Computer Engineering student at Federal University of Paraiba (UFPB)!
-
-#### 🔎 Currently I'm enrolled with TNS/Laser R&D program working in the IoT module, creating applications with the ESP32 MCU. I'm working for Synchro Cloud Services as an intern using Spring Cloud and Kubernetes for a microservices architecture application.
-
-#### 💻 I'm also excited to develop some personal projects using C++ and Java, applying the experience I've gathered in the last years. Even though I want to develop some personal projects using C++, I have already done some cool stuff in Python, such as an Application Backend for a Real Estate Agency with PostgreSQL and a Discord bot for Dice Rolling and Initiative Tests for virtual tabletop RPGs.
-
-#### 📱 Recently, i've built a Github User Search App using React Native with Typescript and the Github API, in order to teach some concepts in the extension program.
+#### 👋 I'm Miguel Rodrigues — a Computer Engineer from the Federal University of Paraíba (UFPB), currently working as a Data Analyst at Zoox Smart Data.
+#### 🚀 I have hands-on experience with data engineering, machine learning, cloud computing (AWS), and real-time APIs for scraping and automation at scale.
+#### 💡 Previously, I worked at TNS Latam in IoT & Cloud Development, building global dashboards and ESP32 communication systems, and at Synchro Cloud Services in full-stack development using Java Spring Boot, Docker, Kubernetes, and CI/CD pipelines.
+#### 🔍 I'm passionate about building smart data pipelines, deploying AI models (LLMs and classifiers), and automating workflows to solve real-world problems.
+#### 📊 Some of my recent work includes building automated hourly/daily/monthly data reports, predictive vehicle analytics (97% accuracy), and enhancing time series forecasting models (up to 87% accuracy).
+#### 📚 On the side, I love working on open-source and personal projects using Python, React, and C++, and sharing what I learn through community initiatives.
 
 ##
 
