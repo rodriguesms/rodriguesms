@@ -4,7 +4,7 @@
 #### 🚀 I have hands-on experience with data engineering, machine learning, cloud computing (AWS), and real-time APIs for scraping and automation at scale.
 #### 💡 Previously, I worked at TNS Latam in IoT & Cloud Development, building global dashboards and ESP32 communication systems, and at Synchro Cloud Services in full-stack development using Java Spring Boot, Docker, Kubernetes, and CI/CD pipelines.
 #### 🔍 I'm passionate about building smart data pipelines, deploying AI models (LLMs and classifiers), and automating workflows to solve real-world problems.
-#### 📊 Some of my recent work includes building automated hourly/daily/monthly data reports, predictive vehicle analytics (98% accuracy), and enhancing time series forecasting models (up to 87% accuracy).
+#### 📊 Some of my recent work includes building automated hourly/daily/monthly data reports, predictive vehicle analytics (98% accuracy), and enhancing sales time series forecasting models to improve predictive accuracy (up to 87%).
 #### 📚 On the side, I love working on open-source and personal projects using Python, React, and C++, and sharing what I learn through community initiatives.
 
 ##
